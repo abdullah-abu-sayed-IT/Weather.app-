@@ -1,4 +1,4 @@
-const apiKey = "e599ca088590a5f97cfc53ab39f9b"; // ← তোমার Default key এখানে (অথবা Weather 1 key: 455a921715b366d648a4f1364a2dc15)
+const apiKey = "455a921715b366d448af1364f6a2dc15"; // ← তোমার Default key এখানে (অথবা Weather 1 key: 455a921715b366d648a4f1364a2dc15)
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
 const cityInput = document.getElementById("cityInput");
